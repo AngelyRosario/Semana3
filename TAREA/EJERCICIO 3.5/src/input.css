@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components{
+    .a {
+        @apply bg-blue-600 grid place-content-center 
+        text-black font-bold text-4xl;
+    }
+    .b {
+        @apply bg-green-400 grid place-content-center 
+        text-black font-bold text-4xl;
+    }
+    .c {
+        @apply bg-red-600 grid place-content-center 
+        text-black font-bold text-4xl;
+    }
+    .d {
+        @apply bg-sky-300 grid place-content-center 
+        text-black font-bold text-4xl;
+    }
+    .e {
+        @apply bg-green-300 grid place-content-center 
+        text-black font-bold text-4xl;
+    }
+    .f {
+        @apply bg-gray-400 grid place-content-center 
+        text-black font-bold text-4xl;
+    } 
+    .g {
+        @apply bg-yellow-300 grid place-content-center 
+        text-black font-bold text-4xl;
+    }
+    .h {
+        @apply bg-red-500 grid place-content-center 
+        text-black font-bold text-4xl;
+    }
+    .i {
+        @apply bg-blue-600 grid place-content-center
+        text-black font-bold  text-4xl;
+    }
+    .j {
+        @apply bg-orange-400 grid place-content-center 
+        text-black  font-bold text-4xl;
+    }
+    .k {
+        @apply grid  bg-pink-300 place-content-center 
+        text-black font-bold text-4xl;
+    }
+    .l {
+        @apply bg-green-600 grid place-content-center 
+        text-black  font-bold text-4xl;
+    }
+
+}

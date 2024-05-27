@@ -1,0 +1,63 @@
+/* Ejercicio.css */
+
+/* Estilos para las columnas responsivas */
+.a{
+    @apply bg-red-500 grid place-content-center rounded-lg text-white ont-bold border-2 border-red-600 text-4xl;
+}
+.b{
+    background-color: #6df199; /* Color de fondo */
+    padding: 1px; /* Relleno */
+    border-radius: 1px; /* Borde redondeado */
+}
+.c{
+    background-color: #f50707; /* Color de fondo */
+    padding: 1px; /* Relleno */
+    border-radius: 1px; /* Borde redondeado */
+}
+.d{
+    background-color: #78bbf1; /* Color de fondo */
+    padding: 1px; /* Relleno */
+    border-radius: 1px; /* Borde redondeado */
+}
+.e{
+    background-color: #b1ffb8; /* Color de fondo */
+    padding: 1px; /* Relleno */
+    border-radius: 1px; /* Borde redondeado */
+}
+.f{
+    background-color: #ccccccde; /* Color de fondo */
+    padding: 1px; /* Relleno */
+    border-radius: 1px; /* Borde redondeado */
+}
+.g{
+    background-color: #d8fc36; /* Color de fondo */
+    padding: 1px; /* Relleno */
+    border-radius: 1px; /* Borde redondeado */
+}
+.h{
+    background-color: #ff1111; /* Color de fondo */
+    padding: 1px; /* Relleno */
+    border-radius: 1px; /* Borde redondeado */
+}
+.i{
+    background-color: #749aee; /* Color de fondo */
+    padding: 1px; /* Relleno */
+    border-radius: 1px; /* Borde redondeado */
+}
+.j{
+    background-color: #ffb937; /* Color de fondo */
+    padding: 1px; /* Relleno */
+    border-radius: 1px; /* Borde redondeado */
+}
+.k{
+    background-color: #f57d7d; /* Color de fondo */
+    padding: 1px; /* Relleno */
+    border-radius: 1px; /* Borde redondeado */
+}
+.l{
+    background-color: #99f57d; /* Color de fondo */
+    padding: 1px; /* Relleno */
+    border-radius: 1px; /* Borde redondeado */
+}
+
+
